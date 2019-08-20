@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DemoBottomNavigation</string>
+    <string name="title_search">Search</string>
+    <string name="title_collections">Collections</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_me">Me</string>
+</resources>
